@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Rails with React in separate folders </b></h3>
+  <h3><b>React frontend </b></h3>
 
 </div>
 
@@ -43,20 +43,6 @@
   </ul>
 </details>
 
-<details>
-  <summary>Backend</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -76,9 +62,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Ruby
-- Rails
-- PostgreSQL
 - Node.js
 
 ### Setup
@@ -87,7 +70,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/yuvenalmash/Hello_Rails_with_React_Separate/issues
+  git clone https://github.com/yuvenalmash/Hello_Rails_with_React_frontend.git
 ```
 
 ### Install
@@ -95,33 +78,16 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Hello_Rails_with_React_Separate/hello-frontend
+  cd Hello_Rails_with_React_frontend
   npm install
-  cd ../hello-backend
-  gem install
-```
-
-### Setup Database
-
-Setup the database with:
-
-```sh
-  cd ../hello-backend
-  rails db:create
-  rails db:migrate
-  rails db:seed
 ```
 
 ### Usage
 
 To run the project, execute the following command:
-- In the hello-frontend folder, run:
+
 ```sh
   npm start
-```
-- In the hello-backend folder, run:
-```sh
-  rails server
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +107,6 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add more actions for the user**
 - [ ] **Improve UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,7 +117,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/yuvenalmash/Hello_Rails_with_React_Separate/issues).
+Feel free to check the [issues page](https://github.com/yuvenalmash/Hello_Rails_with_React_frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
