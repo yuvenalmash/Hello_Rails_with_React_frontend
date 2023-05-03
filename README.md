@@ -30,7 +30,11 @@
 
 # 📖 Rails with React <a name="about-project"></a>
 
-**Rails with React** is a project that shows how to integrate React.js with a Rails application. It is a simple application that allows users to view random greatings each time they refresh the page.
+**React forntend** is a project that shows how to integrate React.js with a Rails application. It is a simple application that allows users to view random greatings each time they refresh the page.
+
+## Backend Repository
+
+- [Rails Backend](https://github.com/yuvenalmash/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +74,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/yuvenalmash/Hello_Rails_with_React_frontend.git
+  git clone https://github.com/yuvenalmash/hello-react-front-end.git
 ```
 
 ### Install
@@ -78,7 +82,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Hello_Rails_with_React_frontend
+  cd hello-react-front-end
   npm install
 ```
 
@@ -117,7 +121,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/yuvenalmash/Hello_Rails_with_React_frontend/issues).
+Feel free to check the [issues page](https://github.com/yuvenalmash/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
